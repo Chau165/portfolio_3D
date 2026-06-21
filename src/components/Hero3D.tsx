@@ -13,7 +13,7 @@ const socials = [
   { label: "FB", href: "https://www.facebook.com/" },
 ];
 
-const HERO_AVATAR_X = 0.16;
+const HERO_AVATAR_X = 0.02;
 const HERO_AVATAR_Y = -1.34;
 const ABOUT_AVATAR_X = -0.96;
 const ABOUT_AVATAR_Y = -1.28;
